@@ -8,9 +8,9 @@
 
     function openLink() {
         if (title == "DOUBLE") {
-            window.open('https://lastlink.com/p/CCEDABE0A', '_blank');
+            window.open('https://hub.la/g/3oPxjt0xsX6PBfVqgPhP', '_blank');
         } else if (title == "CRASH") {
-            window.open('https://lastlink.com/p/C038CCA97', '_blank');
+            window.open('https://hub.la/g/gHSApQxjx5VLpgI8RQxW', '_blank');
         } else {
             window.open('https://t.me/vemganharmoney', '_blank');
         }
